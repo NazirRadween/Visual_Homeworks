@@ -1,0 +1,7 @@
+C:\Users\Yahya\Desktop\Visual_Studio\Homeworks\weekFour\bin\Debug\weekFour.exe.config
+C:\Users\Yahya\Desktop\Visual_Studio\Homeworks\weekFour\bin\Debug\weekFour.exe
+C:\Users\Yahya\Desktop\Visual_Studio\Homeworks\weekFour\bin\Debug\weekFour.pdb
+C:\Users\Yahya\Desktop\Visual_Studio\Homeworks\weekFour\obj\Debug\weekFour.csprojAssemblyReference.cache
+C:\Users\Yahya\Desktop\Visual_Studio\Homeworks\weekFour\obj\Debug\weekFour.csproj.CoreCompileInputs.cache
+C:\Users\Yahya\Desktop\Visual_Studio\Homeworks\weekFour\obj\Debug\weekFour.exe
+C:\Users\Yahya\Desktop\Visual_Studio\Homeworks\weekFour\obj\Debug\weekFour.pdb
